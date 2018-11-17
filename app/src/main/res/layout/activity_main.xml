@@ -152,7 +152,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:onClick="bb5"
-            android:text="Color and white" />
+            android:text="Color and reset" />
 
         <Space
             android:layout_width="0dp"

@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        ad.setNegativeButton("background", new DialogInterface.OnClickListener() {
+        ad.setNegativeButton("reset", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 li.setBackgroundColor(Color.WHITE); }
